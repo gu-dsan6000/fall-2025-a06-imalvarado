@@ -1,0 +1,11 @@
+log_entry,log_level
+"15/09/01 18:14:41 INFO spark.SecurityManager: Changing modify acls to: yarn,yxsu",INFO
+"15/09/01 18:14:42 INFO spark.SecurityManager: Changing modify acls to: yarn,yxsu",INFO
+15/09/01 18:14:42 INFO remote.RemoteActorRefProvider$RemotingTerminator: Shutting down remote daemon.,INFO
+15/09/01 18:14:42 INFO remote.RemoteActorRefProvider$RemotingTerminator: Remoting shut down.,INFO
+15/09/01 18:14:42 INFO executor.CoarseGrainedExecutorBackend: Successfully registered with driver,INFO
+15/09/01 18:16:43 INFO broadcast.TorrentBroadcast: Reading broadcast variable 1 took 469 ms,INFO
+"15/09/01 18:16:44 INFO storage.MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 19.6 KB, free 530.3 MB)",INFO
+15/09/01 18:16:44 INFO broadcast.TorrentBroadcast: Reading broadcast variable 0 took 214 ms,INFO
+15/09/01 18:16:44 INFO executor.Executor: Finished task 862.0 in stage 0.0 (TID 832). 1835 bytes result sent to driver,INFO
+15/09/01 18:16:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 2012,INFO
