@@ -12,6 +12,8 @@ dependencies = [
     "awscli>=1.42.35",
     "nltk>=3.8.0",
     "numpy>=1.24.0",
+    "seaborn>=0.12.0",
+    "matplotlib>=3.7.0",
     "pyarrow>=21.0.0",
 ]
 
